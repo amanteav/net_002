@@ -1,0 +1,18 @@
+.imghome { display: block; width: 100%; height: 30%; overflow: hidden;    }
+.bio  { display: block; position: relative;  width: 95%; background-color:grey ; margin: auto; bottom: -30px; padding: 20px; text-align: center;  }
+p {  background-color: red; text-align: center; color: white;   }
+.otto { position: relative; left: -370px; top: -70px;  }
+@keyframes { 75%  }
+body { width: 100%;}
+@media screen and (min-width: 780px) {
+    body { background-color: grey;}
+.containervimeo {  background-color:darkgray; display: flex; position: relative; 
+    padding: 5px; }
+.vimeo1 { flex:0.5; margin: 1px;  }
+.vimeo2 { flex:0.5;margin: 1px;  }
+.vimeo3 { flex:0.5; margin: 1px;}
+.vimeo4 { flex:0.5; margin: 1px;}
+.cuborojo {width: 20%; height: 80%;  color: aqua; }
+ div { display: flex; }
+.container {display: flex;}
+
