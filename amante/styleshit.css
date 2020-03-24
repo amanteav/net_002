@@ -6,7 +6,7 @@ p {  background-color: red; text-align: center; color: white;   }
 body { width: 100%;}
 @media screen and (min-width: 780px) {
     body { background-color: grey;}
-.containervimeo {  background-color:darkgray; display: flex; position: relative; 
+.containervimeo {  background-color:white; display: flex; position: relative; 
     padding: 5px; }
 .vimeo1 { flex:0.5; margin: 1px;  }
 .vimeo2 { flex:0.5;margin: 1px;  }
