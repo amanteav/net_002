@@ -16,7 +16,7 @@ body {
   overflow: hidden;
   z-index: 1;
   /* Make the rubber band scroll not show empty white space */
-  top: -10%;
+  top: -20%;
   height: 120%;
   min-height: 120vh;
   margin-bottom: -20%;
