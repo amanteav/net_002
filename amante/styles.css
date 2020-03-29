@@ -1,5 +1,5 @@
 @import url("https://rsms.me/inter/inter-ui.css");
-.title{ float: right;}
+.title{width:20%;}
 .container { display: block; widht:40%; }
 
 .content{  display: flex;widht:40%; margin:none; padding: none; }
