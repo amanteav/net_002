@@ -4,6 +4,7 @@
 
 .content{ float: left; display: flex; }
 
+.img { padding: 50px;}
 
 body {
   position: relative;
