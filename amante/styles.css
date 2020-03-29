@@ -4,7 +4,7 @@
 
 .content{ margin:auto; display: flex; }
 
-img { padding-left: 20px; padding-bottom: 20px; }
+img { padding-left: 20px; padding-bottom: 20px; margin:auto; }
 
 body {
   position: relative;
