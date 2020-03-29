@@ -2,9 +2,9 @@
 .title{ float: right;}
 .container { display: block;}
 
-.content{  display: flex; widht: 30%; }
+.content{  display: flex; width: 30%; }
 
-img { position:relative; padding-bottom: 20px; margin:auto; widht: 30%; }
+img { position:relative; padding-bottom: 20px; margin:auto; width: 30%; }
 
 h3 {float: right;}
 
