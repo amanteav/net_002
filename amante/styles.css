@@ -2,7 +2,7 @@
 .title{ float: right;}
 .container { display: block;}
 
-.content{  display: flex widht: 30%; }
+.content{  display: flex; widht: 30%; }
 
 img { position:relative; padding-bottom: 20px; margin:auto; }
 
