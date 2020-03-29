@@ -1,5 +1,7 @@
 @import url("https://rsms.me/inter/inter-ui.css");
 
+.container{ display: inline-flex; }
+
 body {
   position: relative;
   margin: 0;
