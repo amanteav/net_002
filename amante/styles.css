@@ -1,6 +1,6 @@
 @import url("https://rsms.me/inter/inter-ui.css");
 .title{ float: right;}
-.container { display: block;}
+.container { display: block; widht:40% }
 
 .content{  display: flex; margin:none; padding: none; }
 
