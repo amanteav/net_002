@@ -4,7 +4,7 @@
 
 .content{  display: flex;widht:40%; margin:none; padding: none; }
 
-img { position:relative; padding-bottom: 20px; margin:auto; width: 40%; }
+img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
 
 h3 {allign: left;}
 
