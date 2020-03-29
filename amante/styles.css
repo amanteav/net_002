@@ -4,7 +4,7 @@
 
 .content{  display: flex; }
 
-img { position:relative; padding-bottom: 20px; margin:auto; widht: 30%;}
+img { position:relative; padding-bottom: 20px; margin:auto; }
 
 h3 {float: right;}
 
