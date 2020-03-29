@@ -4,7 +4,7 @@
 
 .content{ float: left; display: flex; }
 
-img { border: red 10px; }
+img { padding-left: 20px; }
 
 body {
   position: relative;
