@@ -5,7 +5,7 @@
 .content{ margin:auto; display: flex; }
 
 img { padding-bottom: 20px; margin:auto; }
-h3 {margin:auto;}
+h3 {margin:auto; text-allign: right;}
 
 body {
   position: relative;
