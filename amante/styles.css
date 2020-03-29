@@ -1,5 +1,8 @@
 @import url("https://rsms.me/inter/inter-ui.css");
 
+.container {margin: auto; display: block;}
+
+
 body {
   position: relative;
   margin: 0;
