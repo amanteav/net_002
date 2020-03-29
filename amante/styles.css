@@ -2,6 +2,8 @@
 
 .container {margin: auto; display: block;}
 
+.content{ float: left; display: flex; }
+
 
 body {
   position: relative;
