@@ -2,7 +2,7 @@
 
 .container {margin: auto; display: block;}
 
-.content{ float: left; display: flex; }
+.content{ margin:auto; display: flex; }
 
 img { padding-left: 20px; padding-bottom: 20px; }
 
