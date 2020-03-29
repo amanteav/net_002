@@ -6,7 +6,7 @@
 
 img { position:relative; padding-bottom: 20px; margin:auto; width: 40%; }
 
-h3 {float: right;}
+h3 {float: right; padding-left: 30px;}
 
 body {
   position: relative;
