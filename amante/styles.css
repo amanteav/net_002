@@ -13,6 +13,7 @@ div {
 
 .container { border:5px solid gray;
   display: block; 
+  text: auto;
   width:60%;
   margin: 50px;
   text-align: left;
