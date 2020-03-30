@@ -15,9 +15,9 @@ div {
   display: block; 
   align: auto;
   width:60%;
-  margin: 50px;
+  margin: 50px 50px;
   text-align: left;
-  padding: 30px 0px;
+  padding: 10px 0px;
 }
 
 .content{  
