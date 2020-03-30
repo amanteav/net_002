@@ -26,6 +26,7 @@ div {
 
 .content_2{  border:5px solid green;
   display: inline-block; 
+  margin:auto;
    }
 
 .buy{
