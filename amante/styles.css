@@ -19,7 +19,7 @@ div {
 .buy{
   display: flex;
   width:10%;
-  margin: 10px;
+  margin: 0px 100px;
   padding: 10px;
 }
 
