@@ -8,15 +8,15 @@ div {
 
 
 .container { 
-  display: block; 
-  width:70%; 
-  padding: 10px;  }
+  display: flex; 
+  width:60%;
+  margin: auto;
+ }
 
 .content{  
-  display: flex;
-  width:100%; 
-  margin:none; 
-  padding: none; }
+  display: inline-block;
+  width:60%; 
+}
 
 .content_2{  
   display: block;
