@@ -5,7 +5,11 @@
   widht:40%; 
   padding: 20;  }
 
-.content{  display: flex;widht:40%; margin:none; padding: none; }
+.content{  
+  display: flex;
+  widht:40%; 
+  margin:none; 
+  padding: 20; }
 
 img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
 
