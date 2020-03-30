@@ -20,7 +20,7 @@ div {
   display: flex;
   width:50%;
   margin: -40px 370px;
-  padding: 0px;
+  padding: 10px;
 }
 
 img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
