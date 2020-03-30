@@ -1,10 +1,12 @@
 @import url("https://rsms.me/inter/inter-ui.css");
-.title{width:10%;}
+
+title{ width:10%; border: 3px solid blue;}
 
 div {
- border: 3px solid black;
-  
+ border: 3px solid black; 
 }
+
+
 .container { 
   display: block; 
   width:70%; 
