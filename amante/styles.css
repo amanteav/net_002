@@ -14,12 +14,12 @@ div {
   display: flex;
   width:100%; 
   margin:none; 
-  padding: 5px; }
+  padding: 10px; }
 
 .buy{
   display: flex;
   width:50%;
-  margin: -40px 370px;
+  margin: -20px 370px;
   padding: 10px;
 }
 
