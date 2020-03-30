@@ -3,9 +3,9 @@
 .title{ 
   font-size:10px;
   display:flex;
-  width:100%; 
+  width:150%; 
   border: 3px solid blue; 
-  padding: 0px 50px;
+  padding: 0px 0px;
   color:black;
   text-align:left;
 }
