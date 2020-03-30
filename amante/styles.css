@@ -18,8 +18,8 @@ div {
 
 .buy{
   display: flex;
-  width:10%;
-  margin: 0px 100px;
+  width:100%;
+  margin: 0px 400px;
   padding: 10px;
 }
 
