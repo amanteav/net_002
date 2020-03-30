@@ -4,19 +4,19 @@
 .container { 
   display: block; 
   width:80%; 
-  padding: 50px;  }
+  padding: 80px;  }
 
 .content{  
   display: flex;
   width:100%; 
   margin:none; 
-  padding: 10px; }
+  padding: 5px; }
 
 .buy{
   display: flex;
-  width:20%;
-  margin: 100px;
-  padding: 50px;
+  width:50%;
+  margin: 400px;
+  padding: 30px;
 }
 
 img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
