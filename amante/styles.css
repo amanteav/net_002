@@ -1,7 +1,6 @@
 @import url("https://rsms.me/inter/inter-ui.css");
 
 .title{ 
-  font-size:10px;
   display:flex;
   width:45%; 
   border: 3px solid blue; 
@@ -58,7 +57,7 @@ img { border:5px solid pink;
  width: 100%; }
 
 h3 {
-  font-size:8px;
+  font-size:28px;
 }
 
 body {
