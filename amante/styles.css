@@ -7,7 +7,7 @@ div {
 }
 
 
-.container { 
+.container { border:5px solid gray;
   display: block; 
   width:100%;
   margin: 10
