@@ -8,19 +8,20 @@ div {
 
 
 .container { 
-  display: flex; 
-  width:60%;
-  margin: auto;
+  display: block; 
+  width:100%;
+  margin: 10
  }
 
 .content{  
-  display: inline-block;
+  display: flex;
+  margin: auto;
   width:60%; 
 }
 
 .content_2{  
-  display: block;
-  width:80%; 
+  display: inline-block;
+  width:60%; 
   alling:left; 
   margin:none; 
   padding: none; }
