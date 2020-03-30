@@ -3,7 +3,7 @@
 .title{ 
   display:flex;
   width:20%; 
-  border: 3px solid pink; 
+  border: 3px solid blue; 
   padding: 5px;}
 
 div {
@@ -24,12 +24,9 @@ div {
   width:60%; 
 }
 
-.content_2{  border:5px solid blue;
-  display: inline-block;
-  width:60%; 
-  alling:left; 
-  margin:none; 
-  padding: none; }
+.content_2{  border:5px solid green;
+  display: inline-block; 
+   }
 
 .buy{
   font-size:8px; 
