@@ -3,14 +3,21 @@
 
 .container { 
   display: block; 
-  widht:40%; 
+  width:40%; 
   padding: 50px;  }
 
 .content{  
   display: flex;
-  widht:40%; 
+  width:40%; 
   margin:none; 
   padding: 10px; }
+
+.buy{
+  display: flex;
+  width:20%;
+  margin: 100px;
+  padding: 50px;
+}
 
 img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
 
