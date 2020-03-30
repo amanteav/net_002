@@ -1,15 +1,16 @@
 @import url("https://rsms.me/inter/inter-ui.css");
 .title{width:10%;}
+
 .container { 
   display: block; 
   widht:40%; 
-  padding: 50px;  }
+  padding: 500px;  }
 
 .content{  
   display: flex;
   widht:40%; 
   margin:none; 
-  padding: 50px; }
+  padding: 500px; }
 
 img { allign: left; padding-bottom: 20px; margin:auto; width: 40%; }
 
