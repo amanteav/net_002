@@ -16,6 +16,12 @@ div {
   margin:none; 
   padding: none; }
 
+.content_2{  
+  display: flex;
+  width:100%; 
+  margin:none; 
+  padding: none; }
+
 .buy{
   font-size:8px; 
   display: block;
