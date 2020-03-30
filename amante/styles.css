@@ -45,7 +45,10 @@ img { border:5px solid pink;
  padding-bottom: 0px; 
  width: 100%; }
 
-h3 {allign: right;}
+h3 {
+  font-size:12px;
+  allign: right;
+}
 
 body {
   position: relative;
