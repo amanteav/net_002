@@ -1,4 +1,4 @@
-# Thanos JS (demo site)
+# AMANTEAV.NET (demo site by GIO-T)
 
 Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
 
